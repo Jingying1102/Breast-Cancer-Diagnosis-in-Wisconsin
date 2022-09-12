@@ -1,0 +1,2 @@
+# -Breast-Cancer-Diagnosis-in-Wisconsin
+This project is a final project of course Data Mining @UVA. This project studies the Wisconsin Prognostic Breast Cancer. The aim is to predict breast cancer diagnosis using the digitized image of a fine needle aspirate (FNA) of a breast mass. This project also focuses to find the optimal classification model that maximize the accuracy of the prediction. LDA, QDA, Logistic, SVM, Random Forest and Boosting are used for the classification analysis.
